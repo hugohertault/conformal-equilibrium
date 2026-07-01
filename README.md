@@ -2,7 +2,7 @@
 
 Verification scripts for the paper **"The conformal mode as an entropic
 equilibrium: a variational origin of the relation e^{Dσ} = S_ent/S_Bek"**
-(H. Hertault, submitted to *General Relativity and Gravitation*).
+(H. Hertault).
 
 Every symbolic and numerical identity claimed in the paper is reproduced
 here independently with SymPy and NumPy.
