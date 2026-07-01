@@ -2,7 +2,7 @@
 
 Verification scripts for the paper **"The conformal mode as an entropic
 equilibrium: a variational origin of the relation e^{Dσ} = S_ent/S_Bek"**
-(H. Hertault).
+(H. Hertault, https://doi.org/10.5281/zenodo.21118262 ).
 
 Every symbolic and numerical identity claimed in the paper is reproduced
 here independently with SymPy and NumPy.
